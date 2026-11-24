@@ -40,7 +40,7 @@ A classification project exploring whether Pokémon are legendary based on selec
 
 ## 🎯 Career Interests
 
-Data Analyst · Business Intelligence Analyst · Junior Data Scientist
+Business Analyst · Data Analyst · Business Intelligence Analyst · Reporting Analyst · Product Analyst · Risk Analyst · Junior Data Scientist
 
 ---
 
